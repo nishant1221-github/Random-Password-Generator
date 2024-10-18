@@ -22,16 +22,14 @@ To set up the project locally, follow these steps:
    git clone https://github.com/nishant1221-github/random-password-generator.git
    
 2. Navigate to the project directory:
-    ```bash
-  cd random-password-generator
+    ```bash  cd random-password-generator
 
 4. Install the required dependencies:
   ```bash
   npm install
 
 5. Launch the application:
-   ```bash
-   npm start
+   ```bash   npm start
 
 Usage
 1. Open the application in your web browser.
